@@ -1,8 +1,9 @@
-## Hi there 👋
+Hi!
 
-babdgafgopasgsg
-askdbgoasbdg
-\asdio[gbas[dgbu
+I am a Software Developer located in British Colunmbia, Canada.
+I have a BSc in Computer Science from teh University of Victoria
+
+Some of my personal projects are available on my profile
 <!--
 **tgartside/tgartside** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
